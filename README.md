@@ -37,7 +37,7 @@ In general, male population is the most using the program.
 
 [link to dashboard](https://public.tableau.com/app/profile/hilda.vazqez/viz/NYCityBikeRudebyGender/NYCCityBikebyGender)
 
-##Summary
+## Summary
 
 In conclusion, bikeshare is unusually popular in busy metropolitan areas, where traffic is densely packed and parking spaces are limited. 
 The male population could be the head of attention providing the program regular income, however more outreaches should be done to 
